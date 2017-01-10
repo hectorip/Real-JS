@@ -11,8 +11,18 @@
     <div class="container">
         <div class="row">
             <div class="twelve columns">
-                <h1 class="title"> Plantilla </h1>
-                <p> Pequeña explicación del tópico. </p>
+                <h1 class="title"> Comparaciones </h1>
+                <p> Lo que se explica de la diferencia entre "==" y "===" en JavaScript, es que mientras el primero o la comparación no estricta verifica sólo el valor, mientras que la comparación estricta también verifica el tipo.</p>
+                <p>
+                    Pero la razón técnca correcta es que la comparación no estricta permite coerción de tipos mientras que la estricta la prohibe.
+                </p>
+                <p>
+                    Por eso al no poder transformar los dos valores en un mismo tipo, la comparación estricta devuelve negativo.
+                </p>
+
+                <p>
+                    Las reglas para la coerción de tipos están explicadas en la <a href="http://www.ecma-international.org/ecma-262/6.0/#sec-abstract-equality-comparison"> Sección 7.2.12</a> de la especificación de ECMAScript 2015. Siéntete libre de revisarlas si tienes alguna duda.
+                </p>
             </div>
         </div>
     </div>
