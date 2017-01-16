@@ -10,3 +10,10 @@ greet.hello = "Hola";
 
 console.log(greet.hello); // "Hola"
 
+
+// funciones invocadas inmediatamente
+
+(function(){
+    console.log("Esta función se declara y ejecuta inmediatamente.")
+})();
+
