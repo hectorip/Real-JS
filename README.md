@@ -9,4 +9,5 @@ Después de despreciar JS por bastante tiempo por las diferentes incongruencias 
 
 La serie libros **"YDKJS"** explica justo eso, que por no conocerlo muchos desarrolladores lo desprecian y mal entienden. La ignorancia genera odio.
 
-Este repositorio constará de código, con explicaciones en los comentarios, y probablemente una carpeta con in "index.html" y un "main.js" por tema, o como me parezca que está agrupado decentemente.
+Este repositorio constará de código, con explicaciones en los comentarios, y probablemente una carpeta con un archivo "index.html" y un "main.js" por tema, o como me parezca que está agrupado decentemente.
+
