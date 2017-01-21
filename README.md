@@ -11,3 +11,9 @@ La serie libros **"YDKJS"** explica justo eso, que por no conocerlo muchos desar
 
 Este repositorio constará de código, con explicaciones en los comentarios, y probablemente una carpeta con un archivo "index.html" y un "main.js" por tema, o como me parezca que está agrupado decentemente.
 
+##Secciones Teóricas
+
+Muy probablemente las secciones teóricas sean explicadas completamente en el archivo principal del tema.
+
+Para acceder al código tienes que abrir la consola y examinar lo que ejecuta, o puedes leer directamente en el main.
+
