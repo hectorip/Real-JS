@@ -4,7 +4,7 @@ function greet(who){
     console.log(who);
 }
 
-// Podemos aignarle propiedades a la función, lo cuál demuestra que es un objeto.
+// Podemos aignarle propiedades arbitrarias a la función, lo cuál demuestra que es un objeto.
 
 greet.hello = "Hola";
 
